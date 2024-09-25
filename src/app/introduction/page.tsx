@@ -1,4 +1,5 @@
 "use client";
+import Image from "next/image";
 export default function Introduction() {
   return (
     <div>
@@ -9,7 +10,7 @@ export default function Introduction() {
 
         <div className="sec-div">
         <div>
-          <img className="intro-img" height="300" width="250" src="https://www.shutterstock.com/image-vector/anime-girl-drawing-picture-vector-600nw-2283659223.jpg" alt=""/>
+          <Image className="intro-img" height={300} width={250} src='https://www.shutterstock.com/image-vector/anime-girl-drawing-picture-vector-600nw-2283659223.jpg' alt=""/>
           {/*  */}
         </div>
         <div className="about-div">
