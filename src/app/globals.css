@@ -382,8 +382,45 @@ button:hover {
   border-radius: 9999px;
   height: 10px;
 }
-.skill-div-six{
+
+.skill-div-six-one{
   background-color: #ea1538;
   height: 10px;
   border-radius: 9999px;
+  width: 96%;
+}
+
+.skill-div-six-two{
+  background-color: #ea1538;
+  height: 10px;
+  border-radius: 9999px;
+  width: 85%;
+}
+
+.skill-div-six-three{
+  background-color: #ea1538;
+  height: 10px;
+  border-radius: 9999px;
+  width: 80%;
+}
+
+.skill-div-six-four{
+  background-color: #ea1538;
+  height: 10px;
+  border-radius: 9999px;
+  width: 92%;
+}
+
+.skill-div-six-five{
+  background-color: #ea1538;
+  height: 10px;
+  border-radius: 9999px;
+  width: 86%;
+}
+
+.skill-div-six-six{
+  background-color: #ea1538;
+  height: 10px;
+  border-radius: 9999px;
+  width: 75%;
 }
