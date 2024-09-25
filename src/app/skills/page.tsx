@@ -15,7 +15,7 @@ export default function Home() {
                 <span className="skill-span-two">96%</span>
               </div>
               <div className="skill-div-five">
-                <div className="skill-div-six" style={{ width: '96%' }}></div>
+                <div className="skill-div-six-one" ></div>
               </div>
             </div>
 
@@ -25,7 +25,7 @@ export default function Home() {
                 <span className="skill-span-two">85%</span>
               </div>
               <div className="skill-div-five">
-                <div className="skill-div-six" style={{ width: '85%' }}></div>
+                <div className="skill-div-six-two" ></div>
               </div>
             </div>
 
@@ -35,7 +35,7 @@ export default function Home() {
                 <span className="skill-span-two">80%</span>
               </div>
               <div className="skill-div-five">
-                <div className="skill-div-six" style={{ width: '80%' }}></div>
+                <div className="skill-div-six-three" ></div>
               </div>
             </div>
 
@@ -46,7 +46,7 @@ export default function Home() {
                 <span className="skill-span-two">92%</span>
               </div>
               <div className="skill-div-five">
-                <div className="skill-div-six" style={{ width: '92%' }}></div>
+                <div className="skill-div-six-four"></div>
               </div>
             </div>
             {/*  */}
@@ -56,17 +56,17 @@ export default function Home() {
                 <span className="skill-span-two">86%</span>
               </div>
               <div className="skill-div-five">
-                <div className="skill-div-six" style={{ width: '86%' }}></div>
+                <div className="skill-div-six-five"></div>
               </div>
             </div>
             {/*  */}
             <div className="skill-div-three">
               <div className="skill-div-four">
-                <span className="skill-span-one">JNext js</span>
+                <span className="skill-span-one">Next js</span>
                 <span className="skill-span-two">75%</span>
               </div>
               <div className="skill-div-five">
-                <div className="skill-div-six" style={{ width: '75%' }}></div>
+                <div className="skill-div-six-six"></div>
               </div>
             </div>
           </div>
